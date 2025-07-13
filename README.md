@@ -1,0 +1,2 @@
+# MindConceptAi---a-clone-of-w3-schools-for-school-students-
+this is a web based project for school students who face difficulties in academics and can't reach out to a teacher for doubt solving. It follows the concept of paradox hack to first explain the concept in an easy way then create basic level questions for student to solve, ultimately reaching the given question helping students to clear their funda
